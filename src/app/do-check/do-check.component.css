@@ -1,0 +1,9 @@
+.hero, p {
+    background-color: lightyellow;
+    padding: 8px;
+    margin-top: 8px;
+}
+
+p {
+    background-color: yellow;
+}
